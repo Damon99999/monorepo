@@ -1,0 +1,5 @@
+packages:
+  # 放置项目
+  - 'packages/*'
+  # 放置公用代码
+  - '_public_/**'
